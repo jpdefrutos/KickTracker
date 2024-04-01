@@ -1,0 +1,6 @@
+[submodule "KickTrackerDesktopApp"]
+	path = KickTrackerDesktopApp
+	url = https://github.com/jpdefrutos/KickTrackerDesktopApp.git
+[submodule "KickTrackerEmbeddedSystem"]
+	path = KickTrackerEmbeddedSystem
+	url = https://github.com/jpdefrutos/KickTrackerEmbeddedSystem.git

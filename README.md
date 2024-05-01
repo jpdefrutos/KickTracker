@@ -1,3 +1,7 @@
+# ⚠️Under development⚠️ </span>
+
 # KickTracker
 
-DIY embedded system for collecting acceleration data from kicks, to monitor the progress in the execution of kicks.
+Arduino based embedded system for collecting acceleration data of hitting pads, from taekwondo techniques.
+
+

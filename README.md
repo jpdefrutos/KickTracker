@@ -4,4 +4,6 @@
 
 Arduino based embedded system for collecting acceleration data of hitting pads, from taekwondo techniques.
 
+![KickTracker](./assets/kicksensor.jpg)
+
 
